@@ -1,19 +1,20 @@
-*   d4ce82f merge b2 with master
+sl6486
+*   1b1c42b 9th commit(6th on master)
 |\  
-| *   ccb8ffb merge master with b2
+| *   4156722 7th commit(4th on master)
 | |\  
-| * | c4b8ace commit 1 b2
-* | |   e99f0bc merge b3 with master
+| * | 4972a60 3rd commit(1st on node3)
+* | |   2216fff 8th commit(5th on master)
 |\ \ \  
 | |_|/  
 |/| |   
-| * | 0287da5 commit 1 b3
-* | |   8108364 merge b1 with master
+| * | 641d40b 5th commit(1st on node2)
+* | |   28bfa01 6th commit(3rd on master)
 |\ \ \  
 | |/ /  
 |/| /   
 | |/    
-| * ac02d21 commit 1 b1
-* | 3c93e34 commit 3 master
+| * b87e60c 2nd commit(1st on node1)
+* | e2eeb62 4th commit(2nd on master)
 |/  
-* 73e08f0 commit 2 master
+* b4b23f0 1st commit(1st on master)
