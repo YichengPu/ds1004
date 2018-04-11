@@ -1,0 +1,19 @@
+*   d4ce82f merge b2 with master
+|\  
+| *   ccb8ffb merge master with b2
+| |\  
+| * | c4b8ace commit 1 b2
+* | |   e99f0bc merge b3 with master
+|\ \ \  
+| |_|/  
+|/| |   
+| * | 0287da5 commit 1 b3
+* | |   8108364 merge b1 with master
+|\ \ \  
+| |/ /  
+|/| /   
+| |/    
+| * ac02d21 commit 1 b1
+* | 3c93e34 commit 3 master
+|/  
+* 73e08f0 commit 2 master
